@@ -1,6 +1,6 @@
 {
-  "name": "canvas-template",
-  "version": "1.0.0",
+  "name": "canvas-boilerplate",
+  "version": "0.0.0",
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "gsap": "^3.0.0"
   },
@@ -19,13 +19,13 @@
     "@babel/core": "^7.28.3",
     "@babel/preset-env": "^7.28.3",
     "babel-core": "^6.26.3",
-    "babel-loader": "^10.0.0",
+    "babel-loader": "^8.4.1",
     "babel-preset-env": "^1.7.0",
     "browser-sync": "^3.0.0",
     "browser-sync-webpack-plugin": "^2.4.0",
-    "html-webpack-plugin": "^5.0.0",
+    "html-webpack-plugin": "^4.5.2",
     "prettier": "^1.13.5",
-    "rimraf": "^6.0.0",
+    "rimraf": "^5.0.10",
     "webpack": "^4.47.0",
     "webpack-cli": "^3.3.12"
   }
